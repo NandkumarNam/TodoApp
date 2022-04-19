@@ -5,7 +5,7 @@
 ![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
 
 
-## Getting started
+## Getting started TodoApp
 
 - Clone this repo and install the dependencies with [npm](https://npmjs.com) by running: `npm install`.
 - To start TodoApp project on localhost enviroment by running: `npm start`.
