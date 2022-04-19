@@ -9,6 +9,6 @@
 
 - Clone this repo and install the dependencies with [npm](https://npmjs.com) by running: `npm install`.
 - To start TodoApp project on localhost enviroment by running: `npm start`.
-- To Build TodoApp project : `npm build`.
+- To Build TodoApp project : `npm run build`.
 
 # TodoApp
